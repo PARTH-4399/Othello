@@ -1,4 +1,5 @@
 # Othello
+
 Othello is a strategy board game for 2 Players (Black and White), played on an 8 by 8 board. This game is developed in Java by using Socket Programming for connection and Swing elements for GUI.
 
 ## Installations required
